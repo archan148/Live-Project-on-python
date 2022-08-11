@@ -38,7 +38,9 @@ Python libraries(numpy,pandas,seaborn,matplotlib)
 # Conclusion:
 
 The interesting inferences from the dataset are listed below
-1. 
 
-
+1. In the dataset 68.73% are eligible for loan while 31.27% are not eligible.
+2. With the help of Heat map it is obtained that CreditHistory is highly correlated to Loan_Status.
+3. 
+4.
 
