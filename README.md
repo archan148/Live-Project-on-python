@@ -2,10 +2,14 @@
 
 
 **Aim**: 
+
 To predict whether a person is eligible to get loan or not based on the certain features using Decision Tree and Logistic Regression Algorithms.
 
+
 **Objectives**:
+
 To analyze the features like applicant income, credit history, property area and so on which will affect whether a person is eligible for getting loan by applying the machine learning techinques.
+
 
 **Methodology**:
 
@@ -19,12 +23,17 @@ To analyze the features like applicant income, credit history, property area and
 
 **Evaluation**: In this step, the accuracy of the developed model is evaluated and also the confusion matrix is obtained which tells us that which algorithm performed well in terms of accuracy.
 
+
 **Tools and Technologies**:
 
 Python3,
+
 Machine Learning,
+
 Jupyter notebook,
+
 Python libraries(numpy,pandas,seaborn,matplotlib)
+
 
 **Conclusion**:
 
