@@ -37,5 +37,8 @@ Python libraries(numpy,pandas,seaborn,matplotlib)
 
 # Conclusion:
 
+The interesting inferences from the dataset are listed below
+1. 
+
 
 
