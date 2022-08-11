@@ -13,7 +13,7 @@ To analyze the features like applicant income, credit history, property area and
 
 # Methodology:
 
-**Data collection**: The dataset train.csv was collected from Kaggle.com which consists of 614 rows and 13 features out of which the last column is the target variable(loan_status) having the values yes(Y) or no(N) where Y indicates that a person is eligible for loan.
+**Data collection**: The dataset train.csv was collected from Kaggle.com which consists of 614 rows and 13 features out of which the last column is the target variable(loan_status) having the values yes(Y) or no(N) where Y indicates that a person is eligible for loan which is a classification problem.
 
 **Data cleaning**: The dataset consists of many null values which will affect the accuracy of the model during prediction. So, the null values are replaced by mean and mode depending on the features, if it is categorical feature then it is replaced by mode and if it is numeric then it is replaced by mean. Further the features are standardized and label encoding is applied on categorical columns.
 
