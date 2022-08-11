@@ -20,7 +20,11 @@ To analyze the features like applicant income, credit history, property area and
 **Evaluation**:
 
 **Tools and Technologies**:
-python3,machine learning,jupyter notebook,python libraries(numpy,pandas,seaborn,matplotlib)
+
+Python3
+Machine Learning
+Jupyter notebook
+Python libraries(numpy,pandas,seaborn,matplotlib)
 
 **Conclusion**:
 
