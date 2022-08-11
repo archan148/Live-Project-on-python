@@ -24,7 +24,7 @@ To analyze the features like applicant income, credit history, property area and
 **Evaluation**: In this step, the accuracy of the developed model is evaluated and also the confusion matrix is obtained which tells us that which algorithm performed well in terms of accuracy.
 
 
-# Tools and Technologies**:
+# Tools and Technologies:
 
 Python3
 
