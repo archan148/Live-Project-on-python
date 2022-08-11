@@ -45,5 +45,5 @@ The interesting inferences from the dataset are listed below
 4. People who are belonging to semi-urban region are more eligible for getting loan.
 5. More number of people who are graduated and who are not self_employed have applied for loan.
 6. The distribution of Applicant Income is between 0 to 10000
-7. After the model creation the better accuracy has been obtained from Logistic Regression.
+7. The better accuracy has been obtained from Logistic Regression of about 82.7%.
 
