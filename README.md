@@ -41,9 +41,10 @@ The interesting inferences from the dataset are listed below
 
 1. In the dataset 68.73% are eligible for loan while 31.27% are not eligible.
 2. With the help of Heat map it is obtained that CreditHistory is highly correlated to Loan_Status.
-3. The ratio of male and female in the dataset is 8:2
+3. The ratio of male and female in the dataset is 8:2.
 4. People who are belonging to semi-urban region are more eligible for getting loan.
 5. More number of people who are graduated and who are not self_employed have applied for loan.
-6. The distribution of Applicant Income is between 0 to 10000
-7. The better accuracy has been obtained from Logistic Regression of about 82.7%.
+6. The distribution of Applicant Income is between 0 to 10000.
+7. The better accuracy has been obtained from Logistic Regression of about 82.7% and for Decision Tree it is 82.1% accuracy.
+8. F1_score obtained for Logistic Regression is 0.89 whereas for Decision Tree it is 0.88.
 
