@@ -8,7 +8,7 @@ To predict whether a person is eligible to get loan or not based on the certain 
 
 # Objectives:
 
-To analyze the features like applicant income, credit history, property area and so on which will affect whether a person is eligible for getting loan by applying the machine learning techinques like Decision Tree and Logisitc Regression Algorithms.
+To analyze the features like applicant income, credit history, property area and so on which will affect whether a person is eligible for getting loan by applying the machine learning techinques like Decision Tree and Logistic Regression Algorithms.
 
 
 # Methodology:
