@@ -1,17 +1,17 @@
 # Loan Eligibility Prediction using Machine Learning
 
 
-**Aim**: 
+#Aim: 
 
 To predict whether a person is eligible to get loan or not based on the certain features using Machine Learning.
 
 
-**Objectives**:
+#Objectives:
 
 To analyze the features like applicant income, credit history, property area and so on which will affect whether a person is eligible for getting loan by applying the machine learning techinques like Decision Tree and Logisitc Regression Algorithms.
 
 
-**Methodology**:
+#Methodology:
 
 **Data collection**: The dataset train.csv was collected from Kaggle.com which consists of 614 rows and 13 features out of which the last column is the target variable(loan_status) having the values yes(Y) or no(N) where Y indicates that a person is eligible for loan.
 
@@ -24,7 +24,7 @@ To analyze the features like applicant income, credit history, property area and
 **Evaluation**: In this step, the accuracy of the developed model is evaluated and also the confusion matrix is obtained which tells us that which algorithm performed well in terms of accuracy.
 
 
-**Tools and Technologies**:
+#Tools and Technologies**:
 
 Python3
 
@@ -35,7 +35,7 @@ Jupyter notebook
 Python libraries(numpy,pandas,seaborn,matplotlib)
 
 
-**Conclusion**:
+#Conclusion:
 
 
 
